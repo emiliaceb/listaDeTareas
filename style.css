@@ -6,8 +6,13 @@ body{
 main{
     flex-grow: 1;
 }
+
+.botonAgregar{
+    background-color: green;
+}
+.libre{
+    
+}
 .lista{
-    min-height: 40vw;
-    min-width: 20vh;
-    border: 1px solid red;
+
 }
